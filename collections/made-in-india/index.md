@@ -23,6 +23,8 @@ items:
  - kadalu/kadalu
  - krishdevdb/reseter.css
  - project-sunbird
+ - aniketmaurya/chitra
+ - aniketmaurya/covid-research
 display_name: Made in India
 created_by: mvkaran
 image: made-in-india.png
